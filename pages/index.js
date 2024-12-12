@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Eai Taniel, tamo codando tamo codando... ou não? </h1>
+    return <h1>Parei, Parei Familia, É mafiaaaaaaaa. </h1>
 }
 
 export default Home;
